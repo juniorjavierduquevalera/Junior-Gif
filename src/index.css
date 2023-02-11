@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+body {
+  padding: 35px;
+  max-width: 1480px;
+  margin: 0px auto;
+}
+
+
+
+
+
+
